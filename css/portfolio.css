@@ -293,7 +293,7 @@ section.skinfo>dl>dd{
   margin-bottom: 50px;
 }
 /* skinfo 섹션 */
-
+    /*  */
 section.skimg{
   margin-left: 9.554140127388535%;
   /* width: 630px; width: 560px; */
@@ -423,6 +423,7 @@ figure>div>ul.title>li>dfn{
   font-size: 17px;
   line-height: 29px;
   text-align: center;
+
 }
 #box04>div>dl>dd>a{
   text-decoration: none;
